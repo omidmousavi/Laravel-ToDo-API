@@ -18,9 +18,10 @@
 3. Copy .env.server as .env
 4. Generate laravel key `php artisan key:generate`
 5. Create mysql DB [ **laravel_todo_api** ]
-6. Create DB tables `php artisan migrate`
-7. Add necessary data to tables `php artisan db:seed`
-8. Start app `php artisan server`
+6. Update DB configurations in **.env**
+7. Create DB tables `php artisan migrate`
+8. Add necessary data to tables `php artisan db:seed`
+9. Start app `php artisan server`
 
 > [!TIP]
 > You can test application with `php artisan test`
