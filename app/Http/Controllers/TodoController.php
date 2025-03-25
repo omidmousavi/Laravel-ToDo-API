@@ -22,7 +22,7 @@ class TodoController extends Controller
             'due_date' => 'nullable|date'
         ]);
 
-        $date = $request->due_date ? $request->due_date : Carbon::now();
+        $date = $request->due_date ? $request->due_date : Carbon::now()->toDateString();
 
         $todo = Todo::create([
             'title' => $request->title,
