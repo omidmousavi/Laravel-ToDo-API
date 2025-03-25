@@ -13,7 +13,7 @@
 
 ### Setup:
 
-1. Clone repository `git clone https://github.com/omidmousavi/React-ToDo-App.git`
+1. Clone repository `git clone https://github.com/omidmousavi/Laravel-ToDo-API.git`
 2. Add libraries `composer install`
 3. Copy .env.server as .env
 4. Generate laravel key `php artisan key:generate`
