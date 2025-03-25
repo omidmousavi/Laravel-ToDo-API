@@ -21,3 +21,6 @@
 6. Create DB tables `php artisan migrate`
 7. Add necessary data to tables `php artisan db:seed`
 8. Start app `php artisan server`
+
+> [!TIP]
+> You can test application with `php artisan test`
