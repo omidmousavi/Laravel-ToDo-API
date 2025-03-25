@@ -11,6 +11,9 @@
 ### API Documention:
 [app.swaggerhub.com/apis-docs/OMIDMOUSAVI1385/Laravel-ToDo-API/1.0.0](https://app.swaggerhub.com/apis-docs/OMIDMOUSAVI1385/Laravel-ToDo-API/1.0.0)
 
+### Online hosted api url:
+[https://spiner.support/Laravel-ToDo-API/public/](https://spiner.support/Laravel-ToDo-API/public/)
+
 ### Setup:
 
 1. Clone repository `git clone https://github.com/omidmousavi/Laravel-ToDo-API.git`
@@ -22,6 +25,7 @@
 7. Create DB tables `php artisan migrate`
 8. Add necessary data to tables `php artisan db:seed`
 9. Start app `php artisan server`
+
 
 > [!TIP]
 > You can test application with `php artisan test`
