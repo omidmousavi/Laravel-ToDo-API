@@ -11,9 +11,6 @@
 ### API Documention:
 [app.swaggerhub.com/apis-docs/OMIDMOUSAVI1385/Laravel-ToDo-API/1.0.0](https://app.swaggerhub.com/apis-docs/OMIDMOUSAVI1385/Laravel-ToDo-API/1.0.0)
 
-### Online hosted api url:
-[https://spiner.support/Laravel-ToDo-API/public/](https://spiner.support/Laravel-ToDo-API/public/)
-
 ### Setup:
 
 1. Clone repository `git clone https://github.com/omidmousavi/Laravel-ToDo-API.git`
